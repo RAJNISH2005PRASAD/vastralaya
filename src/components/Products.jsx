@@ -36,7 +36,7 @@ const Products = () => {
     };
 
     getProducts();
-  }, [com]);
+  }, []);
 
   const Loading = () => {
     return (
